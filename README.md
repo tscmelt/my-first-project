@@ -1,1 +1,1 @@
-# my-first-project
+Це моя перша зміна через GitHub.
